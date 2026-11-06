@@ -1,0 +1,6 @@
+{
+  "name": "TrustVault Multi-Chain Crypto Wallet",
+  "description": "Secure multi-chain Web3 crypto wallet with built-in dApp browser, biometric security, real-time price alerts, and staking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
